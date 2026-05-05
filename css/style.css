@@ -1,10 +1,14 @@
 body, ul, li, h1, h2, a{
-  
   /* Insert a margin property and set it's value to 0 */
   /* Insert a padding property and set it's value to 0 */
-  /* Insert a font-family property and set it's value to tahoma
+  /* Insert a font-family property and set it's value to tahoma */
+  
+  margin: 0;
+  padding: 0;
   font-family: tahoma;
 }
+
+
 p{
   /* Insert a font-size property and set it's value to 18px */
 }
