@@ -8,10 +8,11 @@ body, ul, li, h1, h2, a{
   font-family: tahoma;
 }
 
-
 p{
   /* Insert a font-size property and set it's value to 18px */
+  font-size: 18px;
 }
+
 header{
   background-color: #F63232;
   padding: 20px 0;
