@@ -81,9 +81,11 @@ nav li a:hover{
   /* Insert a text-decoration property and set it's value to underline */
   text-decoration: underline;
 }
+
 nav li a.join{
   color: #F63232;
 }
+
 main{
   max-width: 100%;
   width: 1200px;
@@ -93,8 +95,9 @@ main{
   box-sizing: border-box;
 }
 article h2{
-  /* Insert a color property and set it's value to #F63232  */
+  /* Insert a color property and set it's value to F63232#  */
   /* Insert a font-size property and set it's value to 48px */
+  color: #F63232;
   font-size: 48px;
 }
 article p{
