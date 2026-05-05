@@ -25,10 +25,15 @@ header{
 }
 header h1{
   /* Insert a color property and set it's value to white  */
+  color: white;
   /* Insert a border property and set it's value to 8px solid white  */
+  border: 8px, solid white;
   /* Insert a display property and set it's value to inline-block  */
+  display: inline-block;
   /* Insert a padding property and set it's value to 6px and 12px  */
+  padding: 6px, 12px;
   /* Insert a border-radius property and set it's value to 36px */
+  border-radius: 36px;
 }
 .banner{
   position: relative;
